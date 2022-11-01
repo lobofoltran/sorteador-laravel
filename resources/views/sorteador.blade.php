@@ -8,6 +8,7 @@
     <title>Teste - Laravel</title>
 </head>
 <body>
-
+    <h1>Teste - Laravel.</h1>
+    <script src="resources/js/bootstrap.js"></script>
 </body>
 </html>
